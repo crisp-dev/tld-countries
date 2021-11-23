@@ -188,10 +188,6 @@
     "country": "China"
   },
   {
-    "tld": "co",
-    "country": "Colombia"
-  },
-  {
     "tld": "cr",
     "country": "Costa Rica"
   },
@@ -400,16 +396,8 @@
     "country": "Israel"
   },
   {
-    "tld": "im",
-    "country": "Isle of Man"
-  },
-  {
     "tld": "in",
     "country": "India"
-  },
-  {
-    "tld": "io",
-    "country": "British Indian Ocean Territory"
   },
   {
     "tld": "iq",
